@@ -37,7 +37,7 @@
 		57A959581DB4472100311476 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 57A9593D1DB4472000311476 /* Info.plist */; };
 		57A959591DB4472100311476 /* MBProgressHUD.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 57A9593F1DB4472000311476 /* MBProgressHUD.xcconfig */; };
 		57A9595A1DB4472100311476 /* MBProgressHUD-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A959401DB4472000311476 /* MBProgressHUD-dummy.m */; };
-		57A9595C1DB4483600311476 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 57A9595B1DB4483600311476 /* Podfile */; };
+		57F84BB51DB5705A00CDB62F /* HealthFinderFiltersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F84BB41DB5705A00CDB62F /* HealthFinderFiltersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -97,7 +97,7 @@
 		57A959401DB4472000311476 /* MBProgressHUD-dummy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD-dummy.m"; sourceTree = "<group>"; };
 		57A959411DB4472000311476 /* MBProgressHUD-prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-prefix.pch"; sourceTree = "<group>"; };
 		57A959421DB4472000311476 /* MBProgressHUD-umbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-umbrella.h"; sourceTree = "<group>"; };
-		57A9595B1DB4483600311476 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		57F84BB41DB5705A00CDB62F /* HealthFinderFiltersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HealthFinderFiltersViewController.swift; sourceTree = "<group>"; };
 		760DC99FCE19F4ECA89E4CAF /* Pods-Assignment1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment1.release.xcconfig"; path = "Pods/Target Support Files/Pods-Assignment1/Pods-Assignment1.release.xcconfig"; sourceTree = "<group>"; };
 		C7A22B1DAC1676326E30A55D /* Pods_Assignment1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Assignment1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2C22B3BD47B03BBA22D329B /* Pods-Assignment1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Assignment1/Pods-Assignment1.debug.xcconfig"; sourceTree = "<group>"; };
@@ -143,8 +143,8 @@
 				0020DE3B1D93383300BA990C /* ViewController.swift */,
 				0020DE3D1D93383300BA990C /* Main.storyboard */,
 				00C3CCD71D93843300A6428E /* HealthFinderTableViewCell.swift */,
-				57A9595B1DB4483600311476 /* Podfile */,
 				00B51F5E1D93A5A10007E678 /* HealthFinderDetailViewController.swift */,
+				57F84BB41DB5705A00CDB62F /* HealthFinderFiltersViewController.swift */,
 			);
 			path = Assignment1;
 			sourceTree = "<group>";
@@ -353,7 +353,6 @@
 			files = (
 				0020DE441D93383300BA990C /* LaunchScreen.storyboard in Resources */,
 				57A959591DB4472100311476 /* MBProgressHUD.xcconfig in Resources */,
-				57A9595C1DB4483600311476 /* Podfile in Resources */,
 				0020DE411D93383300BA990C /* Assets.xcassets in Resources */,
 				57A959581DB4472100311476 /* Info.plist in Resources */,
 				0020DE3F1D93383300BA990C /* Main.storyboard in Resources */,
@@ -424,6 +423,7 @@
 				57A959541DB4472100311476 /* UIProgressView+AFNetworking.m in Sources */,
 				57A9594F1DB4472100311476 /* AFImageDownloader.m in Sources */,
 				57A9594E1DB4472100311476 /* AFAutoPurgingImageCache.m in Sources */,
+				57F84BB51DB5705A00CDB62F /* HealthFinderFiltersViewController.swift in Sources */,
 				57A959451DB4472000311476 /* AFHTTPSessionManager.m in Sources */,
 				57A9595A1DB4472100311476 /* MBProgressHUD-dummy.m in Sources */,
 				57A959521DB4472100311476 /* UIButton+AFNetworking.m in Sources */,
