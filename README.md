@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://gph.is/2ecdk3C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="//giphy.com/embed/3o6Ztc0sD4CAkJupKo" width="480" height="872" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o6Ztc0sD4CAkJupKo">via GIPHY</a></p>
 
 GIF created with [GIPHY Capture](https://itunes.apple.com/us/app/gifgrabber/id668208984?mt=12).
 
