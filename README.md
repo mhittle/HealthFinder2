@@ -2,7 +2,7 @@
 
 **HealthFinder** is a mobile client app that leverages the [HealthFinder API](https://healthfinder.gov/Developer/How_to_Use.aspx#) which is maintained by the Department of Health and Human Services.
 
-Time spent: **X** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## User Stories
 
